@@ -18,6 +18,7 @@ ETL Script (ETL.sh):
  + Extracts data from MySQL, transforms it, and loads it into PostgreSQL.
  + Creates dimension and fact tables in the staging warehouse.
  + Exports tables as CSV files.
+
 Cron Job:
  + Schedule tasks in the ETL process to run at specified intervals using cron.
 
